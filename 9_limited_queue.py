@@ -4,16 +4,16 @@ class Queue:
         self.max_n = n
         self.head = 0
         self.tail = 0
-        self.size = 0 
+        self.size = 0
 
     def is_empty(self):
         return self.size == 0
-    
+
     def push(self, x):
         if self.size != self.max_n:
             self.queue[self.tail] = x
             self.tail = (self.tail + 1) % self.max_n
-            self.size += 1 
+            self.size += 1
         else:
             print('error')
 

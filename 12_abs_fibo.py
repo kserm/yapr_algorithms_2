@@ -10,9 +10,6 @@ def abs_fibo(n, k):
             f[1] = s
         return f[1]
 
-# print(fibo_recursion(3))
-# print(abs_fibo(71269, 4))
-# print(abs_fibo(10, 1))
 
 if __name__ == '__main__':
     n, k = (int(i) for i in input().split())
