@@ -3,7 +3,7 @@ links to tasks list at yandex.contest.ru:
 
 [basic data structures](https://contest.yandex.ru/contest/23758/problems/)
 
-[final tasks]()
+[final tasks](https://contest.yandex.ru/contest/23759/problems/)
 
 _________________________________________________
 
